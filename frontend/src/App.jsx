@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div style={{ padding: '2rem' }}>
-      <h2>Enter Your Name</h2>
+      <h2>Enter Your Name:-</h2>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
